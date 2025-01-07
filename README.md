@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Shweta M Devadiga
 - 👀 I’m interested in Big Data Applications
-- 🌱 I’m currently learning Orchestration & MDL
-- 💞️ I’m looking to collaborate on ...
 - 📫 Connect with me on Linkedin - www.linkedin.com/in/shwetadevadiga-a48960126
 
 <!---
