@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shweta M Devadiga
 - 👀 I’m interested in Big Data Applications
-- 📫 Connect with me on Linkedin - www.linkedin.com/in/shwetadevadiga-a48960126
+- 📫 Connect with me on Linkedin - https://www.linkedin.com/in/shweta-devadiga-765609398/
 
 <!---
 devadigas/devadigas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
