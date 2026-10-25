@@ -20,7 +20,7 @@ My technical experience includes Apache Spark, Scala, Python, SQL, AWS, and Apac
 ### 📚 Currently Learning
 
 - Azure Data Engineering
-- Azure Databricks and Delta Lake
+- Azure Databricks
 - Data Governance
 - Generative AI applications for data engineering
 
